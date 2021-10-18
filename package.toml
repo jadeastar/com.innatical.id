@@ -16,6 +16,7 @@ maintainers = [
 [files]
 main.py = "./boop/innaticalid/main.py"
 com.innatical.id.desktop = "./usr/share/applications/com.innatical.id.desktop"
+icon.png = "./boop/innaticalid/icon.png"
 
 
 #Fuck you Alt, long live Pax.
