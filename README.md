@@ -1,5 +1,5 @@
 # Innatical ID
-![](https://raw.githubusercontent.com/BoopLabs/badges/main/E9FDABBC-782C-4DB5-916F-599FB2B9A4C1.jpeg)
+[![Boop! Linux - Core Application](https://img.shields.io/badge/Boop!_Linux-Core_Application-915cee?logo=BookStack&logoColor=white)](https://)
 
 Quick webkit wrapper for Innatical ID
 
