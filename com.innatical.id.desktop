@@ -2,8 +2,8 @@
 Name=Innatical ID
 Comment=Manage Your Innatical ID
 GenericName=Utility
-Exec=python3 /usr/bin/innaticalid/main.py
-Icon=/usr/share/pixmaps/id.png
+Exec=python3 /boop/innaticalid/main.py
+Icon=/boop/innaticalid/icon.png
 Type=Application
 StartupNotify=false
 Categories=Accessories
