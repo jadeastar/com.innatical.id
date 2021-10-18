@@ -1,0 +1,19 @@
+spec = 1
+
+[package]
+name = "innaticalid"
+description = "Desktop Wrapper for Innatical ID"
+version = "4.4.0"
+authors = [
+  "Jade Star <jade@innatical.com>"
+  "Lea Gray <lea@innatical.com>"
+]
+maintainers = [
+  "Jade Star <jade@innatical.com>"
+]
+
+[dependencies]
+[files]
+main.py = "./boop/innaticalid/main.py"
+com.innatical.id.desktop = "./usr/share/applications/com.innatical.id.desktop"
+
