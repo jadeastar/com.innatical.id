@@ -5,7 +5,7 @@ name = "innaticalid"
 description = "Desktop Wrapper for Innatical ID"
 version = "4.4.0"
 authors = [
-  "Jade Star <jade@innatical.com>"
+  "Jade Star <jade@innatical.com>",
   "Lea Gray <lea@innatical.com>"
 ]
 maintainers = [
